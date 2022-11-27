@@ -10,8 +10,13 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-Hi, I'm [Niraj Dharwal!](https://www.linkedin.com/in/niraj-dharwal/), a passionate self-taught Full Stack Web Developer 🚀 from India. Building websites since 2015.
-- Currently Working as a Senior Software Engineer.
+Hi, I'm [Niraj Dharwal!](https://www.linkedin.com/in/niraj-dharwal/), a passionate self-taught Full Stack Web Developer 🚀 from India with 7+ years of solid experience in developing Full Stack scalable web apps and RESTful APIs. I have 5 years of exprience in ROR <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> and 2 years of experience in Reactjs <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">. I have sound experience in working on apps either from scratch or ongoing work. 
+
+
+I am skilled with RoR, Ruby, React.js, Golang, Nodejs, Express, MongoDB, Serverless framework, Bootstrap, JavaScript, HTML 5, MySQL, and PostgreSQL. I can assist you in the deployment part as well as I have experience in deploying rails apps using AWS, digital ocean, and Heroku. 
+
+
+I am experienced in GitHub, GitLab, and bitbucket.
 
 **Talking about Personal Stuffs:**
 
