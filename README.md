@@ -1,30 +1,22 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Niraj Dharwal</h1>
+<h3 align="center">A passionate Fullstack Software Engineer from India</h3>
 
-<a href="https://www.linkedin.com/in/niraj-dharwal/">
-  <img align="left" alt="Niraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=codelovers007.codelovers007)
-
-<br />
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-Hi, I'm [Niraj Dharwal!](https://www.linkedin.com/in/niraj-dharwal/), a passionate self-taught Full Stack Web Developer 🚀 from India with 7+ years of solid experience in developing Full Stack scalable web apps and RESTful APIs. I have 5 years of exprience in ROR <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> and 2 years of experience in Reactjs <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">. I have sound experience in working on apps either from scratch or ongoing work. 
+Hi, I'm [Niraj Dharwal!](https://www.linkedin.com/in/niraj-dharwal/), a passionate self-taught Full Stack Web Developer 🚀 from India with 9+ years of solid experience in developing Full Stack scalable web apps and RESTful APIs. I have 6+ years of experience in ROR <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> and 3 years of experience as a MERN developer <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">. I have sound experience in working on apps either from scratch or ongoing work. 
 
 
-I am skilled with RoR, Ruby, React.js, Golang, Nodejs, Express, MongoDB, Serverless framework, Bootstrap, JavaScript, HTML 5, MySQL, and PostgreSQL. I can assist you in the deployment part as well as I have experience in deploying rails apps using AWS, digital ocean, and Heroku. 
-
-
-I am experienced in GitHub, GitLab, and bitbucket.
+I am skilled with ROR, Ruby, React.js, Golang, Nodejs, Express, MongoDB, Serverless framework, Bootstrap, JavaScript, HTML5, MySQL, and PostgreSQL. I can help you with the deployment part, since I have experience in deploying apps using AWS, Digital Ocean, and Heroku through Docker, Nginx, etc. 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I can build application from scratch. :wink:;
-- 🌱 I’m currently learning Go; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@niraj_dharwal](https://www.linkedin.com/in/niraj-dharwal/);
-- 📝[Resume](https://bold.pro/my/niraj-dharwal)
+- 👨🏽‍💻 I can build an application from scratch. 💻;
+- 🌱 I’m currently learning System Architecture. 
+- 💬 Ask me about anything, I am happy to help you.
+- 📫 How to reach me: 
+  - Linkedin: [@niraj_dharwal](https://www.linkedin.com/in/niraj-dharwal/)
+  - Email: ndharwal624@gmail.com
+  - Profile: https://bold.pro/my/niraj-dharwal
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
