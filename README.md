@@ -17,6 +17,7 @@ I am skilled with ROR, Ruby, React.js, Golang, Nodejs, Express, MongoDB, OpenAI,
   - Linkedin: [@niraj_dharwal](https://www.linkedin.com/in/niraj-dharwal/)
   - Email: ndharwal624@gmail.com
   - Profile: https://bold.pro/my/niraj-dharwal
+  - Upwork: https://www.upwork.com/freelancers/nirajd10
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
